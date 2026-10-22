@@ -5,7 +5,7 @@ This project uses a flowchart to represent the process of developing a business 
 Prudent Fitness, a welcoming and affordable gym.
 
 ## Files
-- \Prudent-fitness-floechart.pdf` - The completed flowchart.
+- Prudent-fitness-floechart.pdf - The completed flowchart.
 - Prudent_fitness.py - Python code demonstrating the decisions and actions in the flowchart.
 
 ## Standard Followed
